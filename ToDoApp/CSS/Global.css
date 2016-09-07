@@ -1,0 +1,6 @@
+﻿body .all-wrap {
+  flex-grow: 1;
+  white-space: nowrap; }
+  body .all-wrap .tasks-holder {
+    display: flex; }
+
